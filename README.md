@@ -3,9 +3,9 @@ Projeto 2 da Disciplina de FSO da Universidade de Brasília período 2018-2
 
 ## Alunos
 
-16/0031982 - João Pedro Mota Jardim 
-16/0035481 - Marcelo Araújo dos Santos 
-16/0016428 - Paulo Victor de Menezes Lopes
+16/0031982 - João Pedro Mota Jardim</br>
+16/0035481 - Marcelo Araújo dos Santos</br>
+16/0016428 - Paulo Victor de Menezes Lopes</br>
 
 ## Projetando um Gerenciador de Memória Virtual
 
@@ -83,7 +83,7 @@ saída no valor do byte sinalizado contido no endereço físico.
 
 Seu programa deve ser executado como descrito a seguir:
 
-<center> $ ./proj02.out addresses.txt </center>
+$ ./proj02.out addresses.txt
 
 Seu programa lerá o arquivo addresses.txt, que contém 10.000 endereços lógicos 
 variando de 0 a 65535. Seu programa deve traduzir cada endereço lógico para um 
